@@ -1612,6 +1612,10 @@ button:focus {
 .contact_form .primary_btn {
   margin-top: 20px;
 }
+.btn-p {
+  text-align: center;
+  margin-top: 2rem;
+}
 
 /* Contact Success and error Area css
 ============================================================================================ */
@@ -4447,6 +4451,12 @@ h6 {
 
 .qualification__button.qualification__active {
   color: var(--first-color);
+}
+
+.learn {
+  color: #999;
+  font-size: 18px;
+  font-weight: bolder;
 }
 
 @media screen and (max-width: 350px) {
